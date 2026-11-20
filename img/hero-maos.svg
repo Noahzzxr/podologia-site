@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <!-- PLACEHOLDER: substituir por foto real (4:5). Foto: mãos da profissional trabalhando -->
+  <defs>
+    <pattern id="h" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#1F2A2E" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="#D9CBB8"/>
+  <rect width="100%" height="100%" fill="url(#h)"/>
+  <rect x="24" y="24" width="752" height="952" fill="none" stroke="#1F2A2E" stroke-opacity=".18"/>
+  <text x="48" y="72" font-family="Georgia, serif" font-size="22" fill="#1F2A2E" fill-opacity=".55">4:5</text>
+  <text x="48" y="944" font-family="Georgia, serif" font-style="italic" font-size="26" fill="#1F2A2E" fill-opacity=".6">Foto: mãos da profissional trabalhando</text>
+</svg>

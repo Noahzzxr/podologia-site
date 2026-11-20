@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <!-- PLACEHOLDER: substituir por foto real (3:2). Foto: sala de atendimento real -->
+  <defs>
+    <pattern id="h" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#1F2A2E" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="#D9CBB8"/>
+  <rect width="100%" height="100%" fill="url(#h)"/>
+  <rect x="24" y="24" width="852" height="552" fill="none" stroke="#1F2A2E" stroke-opacity=".18"/>
+  <text x="48" y="72" font-family="Georgia, serif" font-size="22" fill="#1F2A2E" fill-opacity=".55">3:2</text>
+  <text x="48" y="544" font-family="Georgia, serif" font-style="italic" font-size="26" fill="#1F2A2E" fill-opacity=".6">Foto: sala de atendimento real</text>
+</svg>
